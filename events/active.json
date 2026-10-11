@@ -1,0 +1,49 @@
+{
+  "slug": "we4-wedding-events-kollam",
+  "name": "We4 Wedding Events",
+  "shortName": "We4",
+  "descriptor": "Event Management",
+  "address": "kuttichira Thadathilmukk, near old paint company, kattavila, Ayathil, Kollam, Keralam 691004",
+  "area": "Kattavila",
+  "city": "Kollam",
+  "district": "Kollam",
+  "region": "Kerala",
+  "postalCode": "691004",
+  "geo": {
+    "lat": 8.902434699999999,
+    "lng": 76.6345173
+  },
+  "mapsLink": "https://maps.google.com/?cid=3502189589291169200",
+  "phone": "+91 95620 87008",
+  "whatsapp": "919562087008",
+  "hours": "Open 9 am – 9 pm · all days",
+  "opens": "09:00",
+  "closes": "21:00",
+  "rating": 4.7,
+  "reviewCount": 13,
+  "reviews": [
+    {
+      "name": "Nihas N",
+      "rating": 5,
+      "quote": "Is good service and service boy's behaviour"
+    },
+    {
+      "name": "Shafi Shajahan",
+      "rating": 5,
+      "quote": "Good service for everything and deadly professional 🤍"
+    },
+    {
+      "name": "NO USE",
+      "rating": 5,
+      "quote": "Catering service ✨✨✨✨looking like a wow"
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp",
+    "gallery/05.webp"
+  ],
+  "url": "https://we4-wedding-events-kollam.vercel.app"
+}
